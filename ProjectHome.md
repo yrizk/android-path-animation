@@ -1,0 +1,1 @@
+This demo shows how to use the APIs in Android 4+ to animate objects along curved and complex paths.
